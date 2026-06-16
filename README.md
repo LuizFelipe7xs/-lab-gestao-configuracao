@@ -18,3 +18,6 @@ Aplicar conceitos de Gestão de Configuração Moderna utilizando Git e GitHub, 
 - GitHub
 - Python
 
+## Autor
+
+Luiz Felipe
