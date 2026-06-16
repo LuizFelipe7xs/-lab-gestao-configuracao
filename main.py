@@ -1,2 +1,2 @@
 print("Hello World")
-print("Adeus!")git add .
+print("Adeus!")
